@@ -4,5 +4,12 @@
         "edad": "10",
         "animal": "negro",
         "color": "resfrio"
+    },
+    {
+        "nombre": "pipo",
+        "edad": "10",
+        "animal": "gato",
+        "color": "manchitas",
+        "enfermedad": "alergias"
     }
 ]
